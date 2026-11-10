@@ -1,0 +1,16 @@
+{
+  "name": "npm-learning",
+  "version": "1.0.0",
+  "description": "I'm learning npm.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Pablo Sánchez González",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^14.2.5",
+    "qr-image": "^3.2.0"
+  }
+}
